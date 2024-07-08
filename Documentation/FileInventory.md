@@ -9,3 +9,7 @@
 - Path: /GoogleDrive/ProjectProposals/2023-07-01_ProjectProposal_V1.docx
 - Type: .docx
 - Date Modified: 2023-07-01
+
+## USB321FD USB Drive E:\ 
+- Type: .docx
+- Date Modified: 2023-07-01
