@@ -3,7 +3,7 @@
 **Name**: Reverie Shadows
 **Path**: /stories/reverie_shadows.md
 **Type**: Short Story
-**Location**: Google Drive
+**Location**: Moto G Power Phone
 **Date Modified**: 2024-07-08
 
 ## Document Type
